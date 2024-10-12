@@ -8,7 +8,7 @@ description = "send remote command through paramiko via ssh."
 authors = [
     { name = "GGN_2015", email = "premierbob@qq.com" }
 ]
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
     "paramiko",
 ]

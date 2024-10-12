@@ -3,10 +3,16 @@ send remote command through paramiko via ssh.
 
 > attention: we assume that your command will surely be finished in limited time, and this program will output nothing before your command is done on the remote server.
 
-## install
+## install from github release
 
 1. go [https://github.com/GGN-2015/rexec/releases](https://github.com/GGN-2015/rexec/releases) and download a `.whl` file.
 2. use `pip install rexec-<version>-py3-none-any.whl` to install the package into your local environment.
+
+## install from pypi
+
+```bash
+pip install neko_rexec
+```
 
 ## usage
 

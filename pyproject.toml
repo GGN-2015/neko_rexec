@@ -8,13 +8,13 @@ description = "send remote command through paramiko via ssh."
 authors = [
     { name = "GGN_2015", email = "premierbob@qq.com" }
 ]
-version = "0.0.2"
+version = "0.0.4"
 dependencies = [
     "paramiko",
 ]
 readme = "README.md"
 license = { file = "LICENSE" }
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 
 [tool.setuptools]
 include-package-data = true

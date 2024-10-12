@@ -24,7 +24,7 @@ you need to fill in six parameters in the following order, if you are not sure a
 python3 -m neko_rexec <user> <host> <cmd> <password> <port>
 ```
 
-### wihtout password
+### without password
 
 if you have configured an auto login with `~/.ssh/authorized_keys`, you can just leave `<password>` blank as follows:
 

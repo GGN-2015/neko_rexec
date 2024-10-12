@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "rexec"
+name = "neko_rexec"
 description = "send remote command through paramiko via ssh."
 authors = [
     { name = "GGN_2015", email = "premierbob@qq.com" }

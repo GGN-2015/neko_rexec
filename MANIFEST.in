@@ -1,2 +1,2 @@
-graft ./rexec
-exclude ./rexec/__pycache__/*
+graft ./neko_rexec
+exclude ./neko_rexec/__pycache__/*
